@@ -1,29 +1,27 @@
 <!-- ⚡ PowerPeaktalkOfficial | The Official YouTube Brand -->
 <div align="center" style="font-family: 'Segoe UI', sans-serif; background: linear-gradient(180deg, #000000 0%, #0a0a0a 100%); color: #EAEAEA; padding: 40px; border-radius: 20px;">
 
-<!-- Professional Futuristic Animation GIF (First Place) -->
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="65%" style="border-radius: 15px; margin: 25px 0;" alt="Professional Futuristic Animation"/>
+<!-- Professional Futuristic Animation GIF -->
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="65%" style="border-radius: 15px; margin: 25px 0;" alt="Futuristic Animation"/>
 
 <h1 style="font-size: 50px; font-weight: 800; letter-spacing: 1px;">
 🔥 PowerPeaktalkOfficial 🔥
 </h1>
 
 <h3 style="font-size: 22px; color: #00E5FF; margin-top: -10px;">
-Where Technology, Fitness & Motivation Converge ⚡
+Where Technology, Fitness, and Motivation Converge ⚡
 </h3>
-
-<img src="https://media.giphy.com/media/IeR5V5hzPmbk4/giphy.gif" width="70%" style="border-radius: 15px; margin: 25px 0;" alt="PowerPeaktalkOfficial Banner Animation"/>
 
 ---
 
 ## 🎬 About PowerPeaktalkOfficial  
-**PowerPeaktalkOfficial** is a dynamic multimedia brand and YouTube channel dedicated to inspiring innovation, personal growth, and peak performance.  
+**PowerPeaktalkOfficial** is an innovative multimedia brand and YouTube channel committed to inspiring personal growth, technological exploration, and peak performance.  
 
-Our content dives deep into:  
-🏋️‍♂️ **Fitness Mastery** • ⚙️ **Tech Insights** • 💡 **Innovation Stories** • 💬 **Thoughtful Commentary**  
+Our content focuses on:  
+🏋️‍♂️ **Fitness Mastery** • ⚙️ **Tech Insights** • 💡 **Innovation Stories** • 💬 **Thought Leadership**  
 
-We showcase **inspiring individuals, groundbreaking ideas, and powerful tools** that fuel creativity, discipline, and success.  
-Join the movement — unlock your potential and reach your peak. 🚀  
+We highlight **visionary individuals, cutting-edge ideas, and powerful tools** that foster creativity, discipline, and success.  
+Join us and unlock your true potential — reach your peak! 🚀  
 
 📺 **YouTube:** [PowerPeaktalkOfficial](https://www.youtube.com/@PowerPeaktalkOfficial)  
 📱 **TikTok:** [@powerpeaktalk](https://www.tiktok.com/@powerpeaktalk)  
@@ -55,7 +53,5 @@ Join the movement — unlock your potential and reach your peak. 🚀
 
 ---
 
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="60%" style="border-radius: 10px; margin-top: 20px;" alt="PowerPeaktalkOfficial Animated Footer"/>
-
-### 🌟 *Empowering creators. Inspiring thinkers. Reaching new peaks.*  
+### 🌟 *Empowering Creators. Inspiring Thinkers. Reaching New Peaks.*
 </div>
